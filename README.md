@@ -1,6 +1,6 @@
 # Label provenance in PTB-XL: what a diagnostic label is a label *of*
 
-Xinyan Wang · September 2026 · Python, ~1 day of work
+Xinyan Wang · September 2026 · Python, ~ 4 hours of work
 
 ## Summary
 
